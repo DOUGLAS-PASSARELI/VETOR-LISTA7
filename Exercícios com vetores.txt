@@ -1,0 +1,9 @@
+Exercícios com vetores
+1.	Crie um algoritmo para ler 5 números inteiros, armazene-os em um vetor, e mostre a quantidade de números pares e ímpares deste vetor.
+
+2.	Faça um algoritmo que leia 6 números e armazene em um vetor. Depois, some os 3
+primeiros elementos deste vetor.
+
+3.	Crie um programa que solicite a entrada de 5 números pelo usuário, armazenando-os em um vetor, e então monte outro vetor com os valores do primeiro multiplicados por 2, e exiba os valores dos dois vetores na tela.
+
+4.	Faça um algoritmo que receba 5 números inteiros, armazene-os em um vetor, em seguida, descubra e exiba o maior número.
