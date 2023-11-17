@@ -7,8 +7,8 @@ num[2] = parseInt(prompt("Digite 5 numeros para mostrar a quantidade números pa
 num[3] = parseInt(prompt("Digite 5 numeros para mostrar a quantidade números pares e impares:  "));
 num[4] = parseInt(prompt("Digite 5 numeros para mostrar a quantidade números pares e impares:  "));
 
-numPares = 0;
-numImpares = 0;
+var numPares = 0;
+var numImpares = 0;
 
 for (let i = 0; i < num.length; i++){
     if(num[i] % 2 != 0){
